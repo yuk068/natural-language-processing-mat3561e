@@ -1,0 +1,5 @@
+SimpleTokenizer:
+al-zaman : american forces killed shaikh abdullah al-ani , the preacher at the mosque in the town of qaim , near the syrian border . [this killing of a respected cleric will be causing us trouble for years to come . ] dpa : iraqi authorities announced that they had busted up 3 terrorist cells operating in baghdad . two of them were being run by 2 officials of the ministry of the interior ! the moi in iraq is equivalent to the us fbi , so this would be like having j . edgar hoover unwittingly employ at a h
+
+RegexTokenizer:
+al - zaman : american forces killed shaikh abdullah al - ani , the preacher at the mosque in the town of qaim , near the syrian border . [ this killing of a respected cleric will be causing us trouble for years to come . ] dpa : iraqi authorities announced that they had busted up 3 terrorist cells operating in baghdad . two of them were being run by 2 officials of the ministry of the interior ! the moi in iraq is equivalent to the us fbi , so this would be like having j . edgar hoover unwittingly employ at a h

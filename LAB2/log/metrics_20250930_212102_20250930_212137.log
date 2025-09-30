@@ -1,0 +1,14 @@
+--- NLP Pipeline Metrics ---
+Run timestamp: 20250930_212137
+Data file: data/c4-train.00000-of-01024-30K.json
+Records processed: 1000
+Feature pipeline fit time (s): 2.6296
+Data transform time (s): 1.2950
+Actual vocab size (after preprocessing): 29096
+Tokenizer: regex
+HashingTF numFeatures (if used): 1000
+Used Word2Vec: False
+Word2Vec size (if used): 100
+Results file: E:\Anaconda\2025\NLP2025\Lab2\results\pipeline_output_20250930_212102.txt
+
+Note: If numFeatures < vocab size, hash collisions are expected.
