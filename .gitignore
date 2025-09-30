@@ -7,7 +7,6 @@
 **/data/*/
 
 !**/data/*.md
-!**/data/*.txt
 !**/data/*.png
 !**/data/*.jpg
 !**/data/*.jpeg
