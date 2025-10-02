@@ -5,8 +5,10 @@
 **/*.pyo
 
 **/data/*/
+**/data/*
 
 !**/data/*.md
+!**/data/*.py
 !**/data/*.png
 !**/data/*.jpg
 !**/data/*.jpeg
